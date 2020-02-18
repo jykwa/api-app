@@ -52,7 +52,7 @@ function App() {
 //       // handle success
 //       console.log(response.data.data);
 //       setData(response.data.data);
-//     })
+//     } )
 //     .catch(function(error) {
 //       // handle error
 //       console.log(error);
